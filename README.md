@@ -1,4 +1,4 @@
-# 🎓 Advanced BMI Calculator Project
+#  Advanced BMI Calculator Project
 
 ## 📌 Project Overview
 This project is a modern **BMI (Body Mass Index) Calculator** developed using Python.  
